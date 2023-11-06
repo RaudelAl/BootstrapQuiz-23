@@ -1,0 +1,7 @@
+body{
+    background-color: slategray;
+}
+.cardd{
+    display: flex;
+    justify-content: space-evenly;
+}
